@@ -1,0 +1,52 @@
+img {
+    display: -webkit-box;
+    margin-left: auto;
+    width: 13%;
+    height: auto;
+}
+
+h1 {
+    text-overflow: clip;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.one {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.two {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.two-one {
+    margin-bottom: 0px;
+}
+
+.two-two {
+    height: 2px;
+    color:black;
+    background-color: black;
+}
+
+.two-three {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.two-three-one {
+    margin-bottom: 0px;
+}
+
+.two-three-two {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.list {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
